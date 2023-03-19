@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка Nike",
+    "description": "Простая белая футболка с логотипом Nike",
+    "price": 500,
+    "image": "https://cdn.example.com/images/t-shirt-nike.jpg",
+    "brand": "Nike",
+    "category": "Футболки",
+    "color": "белый",
+    "size": "M",
+    "material": "хлопок",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Джинсы Levi's",
+    "description": "Классические синие джинсы Levi's",
+    "price": 2000,
+    "image": "https://cdn.example.com/images/jeans-levis.jpg",
+    "brand": "Levi's",
+    "category": "Джинсы",
+    "color": "синий",
+    "size": "30/32",
+    "material": "деним",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Кроссовки Adidas",
+    "description": "Легкие и удобные кроссовки Adidas",
+    "price": 3000,
+    "image": "https://cdn.example.com/images/sneakers-adidas.jpg",
+    "brand": "Adidas",
+    "category": "Кроссовки",
+    "color": "черный",
+    "size": "US 8",
+    "material": "текстиль",
+    "rating": 4.8
+  }
+]
